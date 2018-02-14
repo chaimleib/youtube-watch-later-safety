@@ -8,6 +8,8 @@
 // @grant        none
 // @require http://code.jquery.com/jquery-latest.slim.min.js
 // @require https://raw.githubusercontent.com/uzairfarooq/arrive/master/minified/arrive.min.js
+// @updateURL   https://raw.githubusercontent.com/chaimleib/youtube-watch-later-safety/master/youtube-watch-later-safety.js
+// @downloadURL   https://raw.githubusercontent.com/chaimleib/youtube-watch-later-safety/master/youtube-watch-later-safety.js
 // ==/UserScript==
 
 (function() {
